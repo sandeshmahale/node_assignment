@@ -1,0 +1,12 @@
+{
+  "name": "file-watch",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "node-watch": "^0.6.2",
+    "read-last-lines": "^1.7.1"
+  }
+}
